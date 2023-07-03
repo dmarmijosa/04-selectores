@@ -1,0 +1,11 @@
+/* INCIE CON
+a[href^="http"]{
+    color:red
+} */
+/* FINALIZE CON  */
+a[href$=".com"]{
+    color:red
+}
+input[type="tel"]{
+    border:5px solid red
+}

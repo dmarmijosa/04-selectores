@@ -1,0 +1,5 @@
+/* Selecciona el primer nivel de los hijos como es el caso de .admin y 
+div NO EL PRIMER HIJO SINO EL PRIMER NIVEL DE HIJOS*/
+.admin > div{
+    border: 2px solid red;;
+}
